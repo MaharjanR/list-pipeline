@@ -15,6 +15,7 @@ public class Collection {
         System.out.println(names);
 
         System.out.println("Testing jenkins in ec2");
+        System.out.println("Testing for 2nd time");
 
     }
 }
