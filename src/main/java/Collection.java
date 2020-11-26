@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Collegction {
+public class Collection {
 
     public static void main(String[] args) {
         System.out.println("First project");
